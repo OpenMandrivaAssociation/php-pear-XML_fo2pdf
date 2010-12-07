@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.98
-Release:	%mkrel 11
+Release:	%mkrel 12
 Summary:	Converts a xsl-fo file to pdf/ps/pcl/text/etc
 License:	PHP License
 Group:		Development/PHP
