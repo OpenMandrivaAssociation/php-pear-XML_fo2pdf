@@ -8,7 +8,7 @@ Release:	15
 Summary:	Converts a xsl-fo file to pdf/ps/pcl/text/etc
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/XML_fo2pdf/
+URL:		https://pear.php.net/package/XML_fo2pdf/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
